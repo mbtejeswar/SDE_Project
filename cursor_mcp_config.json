@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "FraudInference": {
+      "command": "python",
+      "args": [
+        "C:/Users/sagsh/Downloads/SDE_Prj/multi_agent_banking_pipeline_with_api.py",
+        "fraud-inference"
+      ],
+      "env": {}
+    },
+    "DataSource": {
+      "command": "python",
+      "args": [
+        "C:/Users/sagsh/Downloads/SDE_Prj/multi_agent_banking_pipeline_with_api.py",
+        "data-source"
+      ],
+      "env": {}
+    }
+  }
+}
+
+
+
+

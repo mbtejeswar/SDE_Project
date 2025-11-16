@@ -1,0 +1,21 @@
+# Core dependencies
+pandas>=2.0.0
+
+# Optional: Data ingestion
+kagglehub>=0.2.0
+
+# Optional: MCP framework
+fastmcp>=0.1.0
+# OR
+# mcp>=0.1.0
+
+# Optional: FastAPI web server
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+pydantic>=2.0.0
+
+# Optional: HTTP client for external MCP servers
+requests>=2.31.0
+
+
+
